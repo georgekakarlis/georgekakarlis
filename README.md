@@ -1,4 +1,4 @@
-### Hi there, George from 🇬🇷 [website] 👋
+### Hi there, George from 🇬🇷  check out my [website] 👋
 
 
 ## I'm a Web Developer, Jr iOS Developer, ex-Chef(with 8 years in industry) and Krav Maga Enthusiast !!
