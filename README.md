@@ -36,10 +36,6 @@
 <br />
 <br />
 
-
-
-
-
 ---
 
 ### 📕 Latest Blog Posts
@@ -52,13 +48,6 @@ in progress..
 
 ---
 
-
-
-
-
-
-
-</details>
 
 [website]: https://georgekakarlis.com
 [twitter]: https://twitter.com/GeorgeKakarlis
