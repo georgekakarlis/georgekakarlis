@@ -6,7 +6,7 @@
 - 🔭 I’m currently learning everything 🤣
 - 🌱  Nature-Hiking lover
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022-25 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cook (STILL !) and making things from scratch
 
 ### Connect with me:
