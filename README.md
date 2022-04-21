@@ -9,7 +9,7 @@ I am a Chef who discovered his passion for another creative profession. After 10
 * 🌍  I'm based in Vienna, Austria
 * 🖥️  See my portfolio at [https://georgekakarlis.com/](http://georgekakarlis.com/)
 * ✉️  You can contact me at [info@georgekakarlis.com](mailto:info@georgekakarlis.com)
-* 🧠  I'm learning Laravel/PHP and Angular 13
+* 🧠  I'm learning Laravel/PHP and diving deep into Next.js
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
