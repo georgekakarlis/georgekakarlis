@@ -9,8 +9,8 @@ Software Developer | Web Developer
 * 🌍  I'm based in Vienna, Austria
 * 🖥️  See my portfolio/blog at [https://geok.dev](http://geok.dev)
 * ✉️  You can contact me at [georgekakarlis@proton.me](mailto:georgekakarlis@proton.me)
-* 🧠  All things NodeJS
-* 🤝  I'm open on learning GO, Rust
+* 🧠  I am using Neovim BTW
+* :gopher:  I'm learning GO
 
 
 
