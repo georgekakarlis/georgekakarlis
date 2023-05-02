@@ -10,7 +10,7 @@ Software Developer | Web Developer
 * 🖥️  See my portfolio/blog at [https://geok.dev](http://geok.dev)
 * ✉️  You can contact me at [georgekakarlis@proton.me](mailto:georgekakarlis@proton.me)
 * 🧠  I am using Neovim BTW
-* :gopher:  I'm learning GO
+* 🐿️  I'm learning GO
 
 
 
